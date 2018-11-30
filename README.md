@@ -1,4 +1,4 @@
-# Brief
+## Brief
 My custom zsh theme
 
 ![screen_shot](https://raw.githubusercontent.com/Shiaoming/xm/master/screenshot.png) 
